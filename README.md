@@ -1,6 +1,7 @@
 # CS-305-Software-Security
 
 Briefly summarize your client, Artemis Financial, and their software requirements. Who was the client? What issue did they want you to address?
+Artemis Financial need software that provided a secure means of allowing investers to manage their finances while also protect their private information.
 
 What did you do very well when you found your client’s software security vulnerabilities? Why is it important to code securely? What value does software security add to a company’s overall wellbeing?
 The module that I was able to do well was producing static tests as well as suppressing false negatives
